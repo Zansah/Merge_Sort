@@ -1,0 +1,1 @@
+Merge Sort is a sorting algorithm that organizes a list of elements in a specific order. By repeatedly splitting the array, sorting the subarrays, and then merging the sorted halves back together, we can achieve O(nlog(n)) time.
